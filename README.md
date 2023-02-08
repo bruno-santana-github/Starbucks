@@ -6,7 +6,7 @@ ReactJS, Styled Components, Rotas, Typescript, Libs, Carrinho de compra
 
 ### Projeto Design HOME ☕️
 
-![image](https://raw.githubusercontent.com/brbruno-santana-githubu/Starbucks/main/design/1.png)
+![image](https://github.com/bruno-santana-github/Starbucks/blob/master/design/1.png)
 ![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/2.png)
 ![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/3.png)
 
