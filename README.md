@@ -39,7 +39,7 @@ npm run test
 <a href="https://www.linkedin.com/in/bruno-santana-moraes/">
  <sub><b>Bruno de Santana</b></sub></a>  <a href="https://www.linkedin.com/in/bruno-santana-moraes/" title="LinkedIn">🚀</a>
 
-Elaborado por Bruno Santanan
+Elaborado por Bruno Santana
 <br> Encontre-me Aqui!👋🏽 </br>
 
  <div> 
